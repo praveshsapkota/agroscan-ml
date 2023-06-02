@@ -1,0 +1,13 @@
+names:
+- raw-image
+- ripe-image
+nc: 2
+roboflow:
+  license: MIT
+  project: agroscan
+  url: https://universe.roboflow.com/dr-ambedkar-institute-of-technology-vlluz/agroscan/dataset/1
+  version: 1
+  workspace: dr-ambedkar-institute-of-technology-vlluz
+test: /Users/Admin/Documents/personal/ONNX-YOLOv8-Object-Detection/datasets/agroScan-1/test/images
+train: /Users/Admin/Documents/personal/ONNX-YOLOv8-Object-Detection/datasets/agroScan-1/train/images
+val: /Users/Admin/Documents/personal/ONNX-YOLOv8-Object-Detection/datasets/agroScan-1/valid/images

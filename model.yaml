@@ -1,0 +1,10 @@
+path:  "./datasets/agroScan-1"
+train: "./datasets/agroScan-1/train"
+test: ".datasets/agroScan-1/test"
+val: ".datasets/agroScan-1/valid"
+
+#Classes
+nc: 1 # replace according to your number of classes
+
+
+names: ['raw-mango']
